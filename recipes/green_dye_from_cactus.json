@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:green_dye_from_cactus"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:cactus",
+    "output": "minecraft:green_dye"
+  }
+}

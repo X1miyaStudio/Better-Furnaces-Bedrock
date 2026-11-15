@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:pink_concrete_from_powder"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": "minecraft:pink_concrete_powder",
+    "output": "minecraft:pink_concrete"
+  }
+}

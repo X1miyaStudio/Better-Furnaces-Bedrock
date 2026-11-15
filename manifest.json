@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Better Furnaces",
+    "description": "§6§lBetter Furnaces §r§7| §bBedrock Edition\n§7190 new smelting recipes for Blast Furnace, Furnace, Smoker & Campfire! By X1miyaStudio",
+    "uuid": "31d5090e-61da-4114-a163-3ed654136993",
+    "version": [
+      2,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "9e8875f3-dde6-4c68-b343-a61f4306a6fb",
+      "version": [
+        2,
+        0,
+        0
+      ]
+    }
+  ]
+}

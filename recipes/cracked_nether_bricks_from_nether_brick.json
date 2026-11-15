@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:cracked_nether_bricks_from_nether_brick"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:nether_brick",
+    "output": "minecraft:cracked_nether_bricks"
+  }
+}

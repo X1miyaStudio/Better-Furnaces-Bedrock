@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:iron_ingot_from_bucket"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": "minecraft:bucket",
+    "output": "minecraft:iron_ingot"
+  }
+}

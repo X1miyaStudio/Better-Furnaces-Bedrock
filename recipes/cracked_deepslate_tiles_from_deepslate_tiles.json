@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:cracked_deepslate_tiles_from_deepslate_tiles"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:deepslate_tiles",
+    "output": "minecraft:cracked_deepslate_tiles"
+  }
+}

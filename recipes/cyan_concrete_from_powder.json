@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:cyan_concrete_from_powder"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": "minecraft:cyan_concrete_powder",
+    "output": "minecraft:cyan_concrete"
+  }
+}

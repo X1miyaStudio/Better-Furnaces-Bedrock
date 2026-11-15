@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:smooth_red_sandstone_from_red_sandstone"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:red_sandstone",
+    "output": "minecraft:smooth_red_sandstone"
+  }
+}

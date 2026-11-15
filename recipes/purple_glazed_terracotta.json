@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:purple_glazed_terracotta"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:purple_terracotta",
+    "output": "minecraft:purple_glazed_terracotta"
+  }
+}

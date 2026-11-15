@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:popped_chorus_fruit_from_chorus_fruit"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:chorus_fruit",
+    "output": "minecraft:popped_chorus_fruit"
+  }
+}

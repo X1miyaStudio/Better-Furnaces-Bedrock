@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:iron_block_from_damaged_anvil"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": "minecraft:damaged_anvil",
+    "output": "minecraft:iron_block"
+  }
+}

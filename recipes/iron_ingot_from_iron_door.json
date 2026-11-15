@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:iron_ingot_from_iron_door"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": "minecraft:iron_door",
+    "output": "minecraft:iron_ingot"
+  }
+}

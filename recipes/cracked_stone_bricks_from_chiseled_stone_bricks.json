@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:cracked_stone_bricks_from_chiseled_stone_bricks"
+    },
+    "tags": [
+      "furnace",
+      "blast_furnace"
+    ],
+    "input": "minecraft:chiseled_stone_bricks",
+    "output": "minecraft:cracked_stone_bricks"
+  }
+}

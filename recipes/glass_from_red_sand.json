@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:glass_from_red_sand"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:red_sand",
+    "output": "minecraft:glass"
+  }
+}

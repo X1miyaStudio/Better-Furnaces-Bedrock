@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "better_furnaces:stone_from_cobblestone"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": "minecraft:cobblestone",
+    "output": "minecraft:stone"
+  }
+}
