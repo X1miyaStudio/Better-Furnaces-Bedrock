@@ -4,6 +4,13 @@
 
 # Better Furnaces — Bedrock Edition
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-English-00FF88?style=flat-square" alt="English" />
+  <a href="README_RU.md">
+    <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0D1117?style=flat-square&logo=googletranslate&logoColor=white" alt="Русская версия" />
+  </a>
+</p>
+
 [![Minecraft Bedrock](https://img.shields.io/badge/Minecraft_Bedrock-1.21%2B-00D4FF?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-FF8800?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Furnaces-Bedrock/releases)
 [![Recipes](https://img.shields.io/badge/Added_Recipes-190-F16436?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Furnaces-Bedrock)
@@ -17,9 +24,9 @@ Adds **190 logical smelting recipes** across the **Blast Furnace**, **Furnace**,
 
 ---
 
-## ⚙️ Features / Что добавляет аддон (190 рецептов)
+## ⚙️ Features (190 Recipes)
 
-### 🔥 1. Blast Furnace Speedups (2× Faster) / Плавильная печь (×2 быстрее)
+### 🔥 1. Blast Furnace Speedups (2× Faster)
 The Blast Furnace now handles high-temperature building & utility recipes in addition to ores:
 - **Stone & Deepslate:** Cobblestone ➔ Stone ➔ Smooth Stone, Stone Bricks ➔ Cracked Stone Bricks, Cobbled Deepslate ➔ Deepslate, Deepslate Bricks/Tiles ➔ Cracked variants.
 - **Nether & Blackstone:** Netherrack ➔ Nether Brick, Nether Bricks & Polished Blackstone Bricks ➔ Cracked variants.
@@ -28,7 +35,7 @@ The Blast Furnace now handles high-temperature building & utility recipes in add
 - **Utility & Building Blocks:** Basalt ➔ Smooth Basalt, Quartz Block ➔ Smooth Quartz, Tuff ➔ Polished Tuff, Wet Sponge ➔ Sponge, Cactus ➔ Green Dye, Chorus Fruit ➔ Popped Chorus Fruit.
 - **Copper & Wood-to-Charcoal:** Raw Copper / Copper Ore / Deepslate Copper Ore ➔ Copper Ingot; all Overworld Logs & Woods ➔ Charcoal at 2× speed.
 
-### ⚒️ 2. Furnace & Blast Furnace Expansion / Обычная и плавильная печь
+### ⚒️ 2. Furnace & Blast Furnace Expansion
 Brand-new smelting & recycling recipes working in both **Furnace (1×)** and **Blast Furnace (2×)**:
 - **Raw Ore Blocks (9× Bulk Smelting):** Raw Iron Block ➔ Iron Block, Raw Gold Block ➔ Gold Block, Raw Copper Block ➔ Copper Block.
 - **Diamond & Netherite Gear Recycling:** Diamond tools, armor & horse armor ➔ **Diamond**; Netherite tools & armor ➔ **Netherite Ingot**.
@@ -42,16 +49,16 @@ Brand-new smelting & recycling recipes working in both **Furnace (1×)** and **B
 - **Nether Stems, Bamboo & Mangrove Roots ➔ Charcoal:** Crimson & warped stems/hyphae, bamboo blocks, and mangrove roots.
 - **Mossy & Chiseled Stone Variants:** Mossy Cobblestone ➔ Cobblestone, Mossy Stone Bricks ➔ Stone Bricks, Chiseled Stone Bricks / Chiseled Deepslate ➔ Cracked variants.
 
-### 🍖 3. Smoker, Furnace & Campfires / Коптильня, печь и костры
+### 🍖 3. Smoker, Furnace & Campfires
 - **Rotten Flesh ➔ Leather:** Smelt `minecraft:rotten_flesh` into `minecraft:leather` in the **Furnace**, **Smoker (2× faster)**, **Campfire**, and **Soul Campfire**!
 
 ---
 
-## 📲 Installation / Установка
+## 📲 Installation
 
 1. Download **`Better-Furnaces-Bedrock.mcpack`** (or `.zip`) from [GitHub Releases](https://github.com/X1miyaStudio/Better-Furnaces-Bedrock/releases) or CurseForge.
 2. Double-click **`Better-Furnaces-Bedrock.mcpack`** to automatically import it into **Minecraft Bedrock Edition**.
-3. Open your world settings ➔ **Behavior Packs (Наборы параметров)** ➔ activate **Better Furnaces**.
+3. Open your world settings ➔ **Behavior Packs** ➔ activate **Better Furnaces**.
 4. Works in **Minecraft Bedrock 1.21+** on Singleplayer, Realms, and Dedicated Servers (no experimental toggles needed).
 
 ---
